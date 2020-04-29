@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google_maps_service (0.4.2)
+      hurley (~> 0.1)
+      multi_json (~> 1.11)
+      retriable (~> 2.0)
+    hurley (0.2)
+    multi_json (1.14.1)
+    retriable (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google_maps_service
+
+BUNDLED WITH
+   2.1.4
