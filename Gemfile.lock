@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dotenv (2.7.5)
     google_maps_service (0.4.2)
       hurley (~> 0.1)
       multi_json (~> 1.11)
@@ -13,6 +14,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   google_maps_service
 
 BUNDLED WITH
